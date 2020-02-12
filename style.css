@@ -1,4 +1,8 @@
-h1 { color: black; }
+h1 {
+    color: black; 
+    text-align: center;
+
+}
 
 ul.main-menu {
     list-style-type: none;
