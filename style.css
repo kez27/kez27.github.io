@@ -1,8 +1,6 @@
 h1 {
     color: black; 
     text-align: center;
-    margin-right: 150px;
-    margin-left: 150px;
 
 }
 
@@ -10,6 +8,12 @@ p{
     margin-right: 150px;
     margin-left: 150px;
 }
+
+h2{
+    margin-right: 150px;
+    margin-left: 150px;
+}
+
 
 body {
     padding: 15px;
