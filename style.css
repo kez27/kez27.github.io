@@ -22,7 +22,20 @@ body {
     font-size: 17px;
     background-color: #f0fff0;
 }
-
+#nav {
+    width:750px;
+    margin:0 auto;
+    list-style:none;
+}
+#nav li {
+    float:left;
+}
+#nav a {
+    display:block;
+    text-align:center;
+    width:150px;
+    text-decoration:none; 
+}
 ul.main-menu {
     list-style-type: none;
     margin: 0;
