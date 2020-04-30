@@ -52,21 +52,16 @@ ul.sub-menu {
     padding: 0;
     font-size: 15px;
 }
-ul.sub-menu>li {
-    display: inline;
-    padding: 1px;
-    border-right: 1px solid black;
-}
-ul.sub-menu a:hover {
-    background-color: #ddd;
-    color: black;
+
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
 
-table.checklist, table.checklist th, table.checklist td {
-    border: 2px solid black;
-}
-table.checklist th, table.checklist td {
-    padding: 10px;
-}
+table { margin: 0 auto; }
+
+th { text-align: center; 
+     background-color: black;
+     color: white;}
 
 
