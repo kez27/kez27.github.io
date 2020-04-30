@@ -61,7 +61,7 @@ table, th, td {
 table { margin: 0 auto; }
 
 th { text-align: center; 
-     background-color: black;
-     color: white;}
+     
+     color: black;}
 
 
