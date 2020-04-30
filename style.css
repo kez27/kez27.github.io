@@ -64,4 +64,8 @@ th { text-align: center;
      
      color: black;}
 
+a:link {color:white;}
+a:visited {color: blue;}
+a:hover {color: black;}
+
 
